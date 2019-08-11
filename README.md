@@ -1,2 +1,2 @@
 # Titanic-Disaster
-Predicting survival rate from Titanic disaster
+Predicting survival rate of the Titanic disaster
